@@ -4,11 +4,13 @@ Este script automatiza a abertura do Microsoft Word e insere o nome da institui�
 # Requisitos
 Para executar este script, você precisa ter as seguintes dependências instaladas:
 
-Python (recomendado Python 3.x)
-pyautogui
-- Para instalar o pyautogui, você pode usar o seguinte comando:
+- Python (recomendado Python 3.x)
+- Pyautogui
+
+Para instalar o pyautogui, você pode usar o seguinte comando:
 
 Copiar código:
 ```bash
 pip install pyautogui
 ```
+a
